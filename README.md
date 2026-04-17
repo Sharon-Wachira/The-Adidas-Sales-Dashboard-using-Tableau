@@ -291,10 +291,3 @@ Adidas has the opportunity to:
 * Provides **actionable, strategic recommendations**
 * Demonstrates **deep-dive analytical capability**
 
-
-## 📬 Author
-
-*Your Name*
-Business Analytics Graduate | Aspiring Data/Business Analyst
-
----
