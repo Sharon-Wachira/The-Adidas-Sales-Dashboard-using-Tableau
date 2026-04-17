@@ -123,7 +123,7 @@ Filtered analysis focusing on:
 
 ---
 
-## 📊 Key Metrics (Filtered View)
+##  Key Metrics The Filtered View
 
 * **Total Sales:** $230M
 * **Operating Profit:** $84M
@@ -133,65 +133,63 @@ Filtered analysis focusing on:
 
 ---
 
-## 🔍 Insights from Filtered Analysis
+## Insights from Filtered Analysis
 
-### 💰 1. High Margin Despite Low Sales
+###  1. High Margin Despite Low Sales
 
 * Margin remains **42%**
 
-👉 **Conclusion:**
+ **Conclusion:**
 
 * Problem is **not profitability**, but **low demand**
 
----
 
-### 📉 2. Demand Issue (Not Pricing)
+### 2. Demand Issue (Not Pricing)
 
 * Lower sales volume with slightly **higher price ($46)**
 
-👉 **Insight:**
+ **Insight:**
 
 * Pricing may be slightly restrictive
 * Weak perceived value or demand
 
 ---
 
-### 📅 3. Seasonal Trends Still Apply
+###  3. Seasonal Trends Still Apply
 
 * Peaks around **July–August**
 * Drops around **March & October**
 
-👉 **Insight:**
+ **Insight:**
 
 * Even weak products follow **market seasonality**
 
----
 
-### 🌍 4. Same Regional Dependence
+###  4. Same Regional Dependence
 
 * West still leads (~30%)
 
-👉 **Insight:**
+ **Insight:**
 
 * Demand exists but is **geographically uneven**
 
 ---
 
-### ⚠️ 5. Retailer Concentration Persists
+### 5. Retailer Concentration Persists
 
 * West Gear & Foot Locker still dominate
 
-👉 **Risk:**
+ **Risk:**
 
 * Weak products are also **over-dependent on few retailers**
 
 ---
 
-### 🚨 6. Critical Underperformance in Women’s Segment
+###  6. Critical Underperformance in Women’s Segment
 
 * Women’s Athletic Footwear contributes **very little**
 
-👉 **Insight:**
+ **Insight:**
 
 * Major **missed market opportunity**
 * Possible issues:
@@ -200,27 +198,24 @@ Filtered analysis focusing on:
   * Branding
   * Competition
 
----
 
-## ⚠️ Key Problems Identified
+##  Key Problems Identified
 
 * Low demand for certain products
 * Weak product positioning
 * Over-reliance on limited retailers
 * Underperformance in women’s category
 
----
 
-## 💡 Business Recommendations
+## Business Recommendations
 
-### 🛍️ 1. Product Diversification
+###  1. Product Diversification
 
 * Reduce reliance on **Men’s Street Footwear**
 * Strengthen underperforming categories
 
----
 
-### 👟 2. Improve Product Positioning
+### 2. Improve Product Positioning
 
 * Rebrand and reposition:
 
@@ -229,7 +224,7 @@ Filtered analysis focusing on:
 
 ---
 
-### 💰 3. Optimize Pricing Strategy
+### 3. Optimize Pricing Strategy
 
 * Test:
 
@@ -239,7 +234,7 @@ Filtered analysis focusing on:
 
 ---
 
-### 🤝 4. Expand Retail Channels
+###  4. Expand Retail Channels
 
 * Reduce dependency on:
 
@@ -251,28 +246,26 @@ Filtered analysis focusing on:
   * E-commerce
   * New retail partnerships
 
----
 
-### 🌎 5. Regional Growth Strategy
+###  5. Regional Growth Strategy
 
 * Invest in underperforming regions
 * Use localized campaigns
 
 ---
 
-### 📣 6. Focus on Women’s Market
+###  6. Focus on Women’s Market
 
 * Redesign and market women’s products
 * Tap into **athleisure and fitness trends**
 
----
 
-## 🚀 Final Conclusion
+## Final Conclusion
 
 This project highlights that:
 
-👉 **High performance does not eliminate risk**
-👉 **Low-performing products are not failing — they are underutilized**
+ **High performance does not eliminate risk**
+ **Low-performing products are not failing — they are underutilized**
 
 Adidas has the opportunity to:
 
@@ -280,30 +273,24 @@ Adidas has the opportunity to:
 * Reduce dependency risks
 * Unlock growth in untapped segments
 
----
 
-## 🛠️ Tools Used
+
+##  Tools Used
 
 * Power BI (Dashboard & Visualization)
 * Power Query (Data Cleaning)
-* DAX (Measures & KPIs)
+* DAX (Measures & KPIs
 
----
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
-*(Insert your screenshots here)*
-
----
-
-## 💼 Why This Project Stands Out
+## Why This Project Stands Out
 
 * Combines **technical skills + business thinking**
 * Identifies **real business risks**
 * Provides **actionable, strategic recommendations**
 * Demonstrates **deep-dive analytical capability**
 
----
 
 ## 📬 Author
 
