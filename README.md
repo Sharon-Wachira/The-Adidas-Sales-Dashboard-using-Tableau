@@ -1,6 +1,5 @@
 # Adidas-Sales-Dashoard-using-Tableau
 
-# Adidas Sales Analysis Dashboard 
 
 ## Project Overview
 
